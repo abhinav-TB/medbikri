@@ -1,0 +1,11 @@
+.top{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20%;
+    margin-right: 20%;
+    height:100vh;
+    padding-top:6%;
+    /* align-items: center; */
+    /* justify-content: center; */
+
+}
